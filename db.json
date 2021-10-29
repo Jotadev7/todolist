@@ -1,0 +1,28 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Passear",
+      "descricao": "Sair com o cachorro",
+      "categoria": "Difícil",
+      "dataConclusao": "22-04-2021",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "titulo": "Remédio",
+      "descricao": "Tomar o remédio",
+      "categoria": "Urgente",
+      "dataConclusao": "23-04-2021",
+      "isDone": true
+    },
+    {
+      "id": 3,
+      "titulo": "Correr",
+      "descricao": "Ir correr",
+      "categoria": "Fácil",
+      "dataConclusao": "21-04-2021",
+      "isDone": true
+    }
+  ]
+}
